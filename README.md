@@ -1,9 +1,9 @@
 # 🚀 Data Warehousing and Mining (DWM) Practicals  
 
-🔹 **Student Name:** Sujal Junghare  
+🔹 **Student Name:** Khushi Dekate
 🔹 **Semester:** VI  
 🔹 **Section:** C  
-🔹 **PRN:** 22070521089  
+🔹 **PRN:** 22070521096
 
 ---
 
